@@ -1,4 +1,3 @@
-<!-- Banner with Gradient -->
 <p align="center">
   <img src="https://via.placeholder.com/1000x200/1e3c72/2a5298?text=+" width="100%" style="border-radius:10px;" alt="Banner"/>
 </p>
