@@ -1,3 +1,24 @@
+<!-- Banner with Gradient -->
+<p align="center">
+  <img src="https://via.placeholder.com/1000x200/1e3c72/2a5298?text=+" width="100%" style="border-radius:10px;" alt="Banner"/>
+</p>
+
+<h1 align="center">Allisha Banu</h1>
+<h3 align="center">Aspiring Data Analyst | Insights Explorer</h3>
+
+<br />
+
+<p align="center">
+  <a href="www.linkedin.com/in/allisha-banu">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="allishabanu526@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/PROFILE%20VIEWS-79-brightgreen?style=for-the-badge" />
+</p>
+
+
 <h1 align="center">💡 About Me</h1>
 <h3 align="center">I'm a passionate Data Analyst who transforms raw data into clear, actionable insights.
 
@@ -7,7 +28,7 @@ My expertise spans Python, SQL, Excel, Tableau, and Power BI, allowing me to del
 
 </h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 🛠️ My Tech Stack & Skills
