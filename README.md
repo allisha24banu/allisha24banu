@@ -2,21 +2,21 @@
 <p align="center">
   <img src="https://via.placeholder.com/1000x200/1e3c72/2a5298?text=+" width="100%" style="border-radius:10px;" alt="Banner"/>
 </p>
-
 <h1 align="center">Allisha Banu</h1>
 <h3 align="center">Aspiring Data Analyst | Insights Explorer</h3>
 
 <br />
 
 <p align="center">
-  <a href="www.linkedin.com/in/allisha-banu">
+  <a href="https://www.linkedin.com/in/allisha-banu">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="allishabanu526@gmail.com">
+  <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/PROFILE%20VIEWS-79-brightgreen?style=for-the-badge" />
 </p>
+
 
 
 <h1 align="center">💡 About Me</h1>
